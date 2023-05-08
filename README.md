@@ -1,2 +1,2 @@
 # My-College-Website
-My College Website Using HTML and CSS | College Information Websites
+My College Website Using HTML5 and CSS3 | College Information Websites
